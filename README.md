@@ -1,5 +1,3 @@
 # OTS
 
-![Image](image/fig1.jpg)
-![Image](image/visual_results.pdf)
-
+<img src=".image/pics.pdf" width="300" >
